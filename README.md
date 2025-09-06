@@ -50,7 +50,7 @@ Folder	Description	Link
 
 Contact
 LinkedIn: Linkedin
-Email: Olalekanibikunle08@gmail.com
+Email: oladapofamodu@gmail.com
 Portfolio Site: [Coming soon!]
 “Cybersecurity is not only a discipline, it is a mindset.”
 
