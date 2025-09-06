@@ -1,6 +1,3 @@
-Hi there! 👋 I'm *Oladapo Famodu Fredrick *, a passionate and hands-on **Cybersecurity Analyst** with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing and am on a mission to make the digital world safer — one packet at a time.
-
----
 🛡 Project Highlights
 Lab Foundations
 Virtual Home Lab Build – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
@@ -50,7 +47,7 @@ Folder	Description	Link
 
 Contact
 LinkedIn: Linkedin
-Email: oladapofamodu@gmail.com
+Email: dapofamodu@gmail.com
 Portfolio Site: [Coming soon!]
 “Cybersecurity is not only a discipline, it is a mindset.”
 
