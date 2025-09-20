@@ -50,7 +50,7 @@ Folder	Description	Link
 13-malware-analysis	Static and dynamic malware triage	View Repo
 📫 Contact
 💼 LinkedIn
-✉ Email: dapofamodu@gmail.com
+✉ Email: dapofamodu@gmail.com 
 🌐 Portfolio: coming soon!
 “Cybersecurity is not only a discipline, but also a mindset.”
 
