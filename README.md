@@ -1,4 +1,4 @@
-Wealthdjoy/README.md
+dapson101/README.md
 👩🏽‍💻 OLADAPO FAMODU FREDRICK  – Cybersecurity Analyst
 👋 Hello! I’m Oladapo Famodu Fredrick, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
