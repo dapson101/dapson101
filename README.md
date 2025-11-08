@@ -57,7 +57,7 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/dapson101/-Setting-Up-A-Virtual-Home-Lab-HOME-VIRTUAL-LAB-PROJECT.pdf.git)
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/dapson101/My-Cybersecurity-Projects.git)
 | 03-AWS-development | Configuring and hardening Cloud console in AWS | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
