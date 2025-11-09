@@ -62,7 +62,7 @@
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/dapson101/Web-Application-and-Endpoint-Vulnerability-Scanning-.git) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/dapson101/Splunk-Alert-Project-Detecting-Failed-Logins-on-Windows-Server.git) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/dapson101/Risk-Assessment-Report-AcmeCloud-SaaS-Pla-orm.git) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
