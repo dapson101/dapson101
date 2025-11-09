@@ -68,7 +68,7 @@
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/dapson101/Phishing-Email-Analysis-.git) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/dapson101/Malware-analysis.git) |
 |
 
 ---
