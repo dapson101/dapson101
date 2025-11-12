@@ -1,4 +1,4 @@
-# Oladapo Famodu Fredrick – Cybersecurity Analyst
+# Oladapo Famodu Fredrick – Cybersecurity Analyst / IT Security Engineering 
 
 👋 Hello! I’m **Oladapo Famodu Fredrick**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
