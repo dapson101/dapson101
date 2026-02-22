@@ -69,7 +69,7 @@
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/dapson101/linux-permissions-audit) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/dapson101/SQL-Injection-Project-on-Auth-Bypass-Credential-Exfiltration.git) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/dapson101/Malware-analysis.git) |
-| 14-file-extraction-from-HTTP-traffic-PCAP  | Identify, reconstruct, and recover hidden files embedded within TCP streams using Wireshark |(View Repo) |
+| 14-file-extraction-from-HTTP-traffic-PCAP  | Identify, reconstruct, and recover hidden files embedded within TCP streams using Wireshark |[ViewRepo] |
 
 ---
 
