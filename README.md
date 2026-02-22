@@ -70,7 +70,7 @@
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/dapson101/SQL-Injection-Project-on-Auth-Bypass-Credential-Exfiltration.git) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/dapson101/Malware-analysis.git) |
 | 14-file-extraction-from-HTTP-traffic-PCAP  | Identify, reconstruct, and recover hidden files embedded within TCP streams using Wireshark | [View Repo](https://github.com/dapson101/Digital-Forensics-Capture-the-File-CTF-Report-Digital-Forensics-CTF-Report---PCAP.pdf/blob/main/Digital%20Forensics%20CTF%20Report%20-%20PCAP%20(1).pdf) |
-
+ | 15- splunk-log-analysis-workflow  |	Ingestion, field extraction, search queries, visualizations, and alerting  | [View Repo]
 ---
 
 ## Contact
